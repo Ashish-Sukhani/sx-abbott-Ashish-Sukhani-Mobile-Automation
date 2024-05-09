@@ -8,7 +8,9 @@ Requirements:
  4.	AVD or Android Device 
  5.	Appium
  6.	Node.js, npm and pip
+    
 To run this automation suite:
+ 
  1.	Install node.js and npm
  2.	In CMD, run the commands, ’pip install appium’ & ‘pip install Appium-Python-Client’ to install the prerequisites.
  3.	Clone the repository to your local drive.
