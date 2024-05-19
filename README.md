@@ -20,7 +20,7 @@ To run this automation suite:
  7.	Launch the project in PyCharm IDE.
  8.	Run the program.
 
-To Run the the code using POM structure:
+To run the code using POM structure:
  1.	Install node.js and npm
  2.	In CMD, run the commands, ’pip install appium’ & ‘pip install Appium-Python-Client’ to install the prerequisites.
  3.	Clone the repository to your local drive.
